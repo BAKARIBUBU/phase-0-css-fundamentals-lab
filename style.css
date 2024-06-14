@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+nav{
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+figure{
+  text-align: center;
+}
+#featured-property p {
+  width: 800px; /* set a hard width of 800px */
+  margin: 20px auto; /* add vertical space and center the text */
+  text-align: center; /* center the text horizontally */
+}
+#details div {
+  float: left;
+  justify-content: space-between;
+}
+
+#details div {
+  background-color: red; /* Change this to your preferred color */
+  text-align: center;
+  width: 25%;
+  box-sizing: border-box;
+  float: left;
+  padding: 20px;
+}
